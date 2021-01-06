@@ -5,7 +5,9 @@ html, body{
     height: 100%;
 }
 .wrapper{
-    background-image: url(/SecondLayout/background.jpg);
+    /* sunt mari probleme cu path-ul atat in css, cat si in html. si denumirea nu are neaparat un sens ScondLayout pentru un folder in care avem asset-urile. putina atentie aici, te rog */
+    /* ti-am atasat un screenshot sa vezi rezultatul initial */
+    background-image: url(SecondLayout/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: relative;
@@ -15,6 +17,8 @@ html, body{
     box-sizing: border-box;
   
 }
+
+/* nu ai nevoie de toate spatiile astea aici, hai sa ne invatam sa scriem cod ordonat, te rog */
 .title-wrapper{
     height: auto;
     width: 800px;
