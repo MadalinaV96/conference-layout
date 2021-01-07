@@ -21,10 +21,7 @@ html, body{
 /* nu ai nevoie de toate spatiile astea aici, hai sa ne invatam sa scriem cod ordonat, te rog */
 .title-wrapper{
     height: auto;
-    width: 800px;
-    
-    
-    
+    width: 800px;  
 }
 h1{
     color: white;
